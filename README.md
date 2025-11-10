@@ -1,0 +1,2 @@
+# Plant Disease Segmentation using Modified U-Net
+This repository contains code for segmenting plant diseases from leaf images using a U-Net–based deep learning model. The project focuses on detecting and isolating infected areas to support automated plant health monitoring. A modified U-Net architecture is implemented to enhance segmentation accuracy and model performance compared to the standard U-Net.
